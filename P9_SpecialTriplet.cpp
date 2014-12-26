@@ -1,5 +1,11 @@
 #include <iostream>
 
+/*
+  Solution inspired from
+  http://stackoverflow.com/questions/575117/generating-unique-ordered-pythagorean-triplets
+
+*/
+
 int main(){
 
     int a,b,c;
